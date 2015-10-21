@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>OSCER BETA</title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://oscerbeta.github.io/series/oscer-101/</link>
+    <language>en-us</language>
+    <author>xio</author>
+    <copyright>2015 xio</copyright>
+    <updated>Wed, 08 Jul 2015 11:12:44 UTC</updated>
+    
+    
+    <item>
+      <title>How does OSCER help me better serve my patients?</title>
+      <link>http://oscerbeta.github.io/2015/07/help-patients/</link>
+      <pubDate>Wed, 08 Jul 2015 11:12:44 UTC</pubDate>
+      <author>xio</author>
+      <guid>http://oscerbeta.github.io/2015/07/help-patients/</guid>
+      <description>&lt;p&gt;Lorem dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>How does OSCER compare with other EMR solutions?</title>
+      <link>http://oscerbeta.github.io/2014/08/emr-compare/</link>
+      <pubDate>Fri, 08 Aug 2014 10:07:46 UTC</pubDate>
+      <author>xio</author>
+      <guid>http://oscerbeta.github.io/2014/08/emr-compare/</guid>
+      <description>&lt;p&gt;Lorem dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Tell me about OSCER&#39;s community of practice.</title>
+      <link>http://oscerbeta.github.io/2014/08/oscer-community/</link>
+      <pubDate>Fri, 01 Aug 2014 06:45:00 UTC</pubDate>
+      <author>xio</author>
+      <guid>http://oscerbeta.github.io/2014/08/oscer-community/</guid>
+      <description>&lt;p&gt;Lorem dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
